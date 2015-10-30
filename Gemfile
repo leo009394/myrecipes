@@ -34,3 +34,4 @@ group :producttion do
   gem 'rails_12factor'
 end
 
+gem 'therubyracer'
